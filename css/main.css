@@ -62,6 +62,7 @@ nav div a:hover {
 #home img {
   display: inline-block;
   width: 15%;
+  max-width: 250px;
   border-radius: 50%;
   border: 8px solid white;
   
