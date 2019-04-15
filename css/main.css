@@ -136,11 +136,13 @@ nav div a:hover {
   grid-column: 2/3;
   grid-row: 2/3;
   justify-self: left;
+  
 }
 
 #bio-icon img {
-width: 100%;
+  width: 100%;
   max-width: 250px;
+  border-radius: 5px;
 }
 
 #bio-description {
@@ -163,9 +165,11 @@ width: 100%;
 }
 
 #bio-map {
-  width: 90%;
+  width: 70%;
   height: auto;
   min-height: 350px;
+  border: none;
+  border-radius: 5px;
 }
 
 #div-projects {
